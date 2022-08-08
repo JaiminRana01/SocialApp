@@ -10,6 +10,8 @@ class CreatePostActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_create_post)
 
+        actionBar?.setDisplayHomeAsUpEnabled(true)
+
         val postDao = PostDao()
 
         postButton.setOnClickListener {

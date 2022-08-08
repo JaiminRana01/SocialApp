@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Social App</string>
     <string name="floating_add_button_cd">Floating Add Button</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="post_input_hint">What do you want to post?</string>
+    <string name="post">Post</string>
+    <string name="like_button_cd">Like Button</string>
+    <string name="user_profile_image_cd">User Profile Image</string>
 </resources>

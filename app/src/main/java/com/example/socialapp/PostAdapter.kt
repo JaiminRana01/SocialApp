@@ -14,7 +14,7 @@ import com.firebase.ui.firestore.FirestoreRecyclerOptions
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
 
-class PostAdapter(options: FirestoreRecyclerOptions<Post>, val listener: IPostAdapter) :
+class PostAdapter(options: FirestoreRecyclerOptions<Post>, private val listener: IPostAdapter) :
     FirestoreRecyclerAdapter<Post, PostAdapter.PostViewHolder>(
         options
     ) {

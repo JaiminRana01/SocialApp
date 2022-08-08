@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1355" />
         <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable/edittext_round_shape.xml" value="0.199" />
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1355" />
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable/ic_liked.xml" value="0.1355" />
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/drawable/ic_unliked.xml" value="0.1355" />
         <entry key="..\:/Projects/SocialApp/app/src/main/res/layout/activity_create_post.xml" value="0.259375" />
         <entry key="..\:/Projects/SocialApp/app/src/main/res/layout/activity_main.xml" value="0.259375" />
         <entry key="..\:/Projects/SocialApp/app/src/main/res/layout/activity_sign_in.xml" value="0.259375" />
         <entry key="..\:/Projects/SocialApp/app/src/main/res/layout/item_post.xml" value="0.25833333333333336" />
+        <entry key="..\:/Projects/SocialApp/app/src/main/res/menu/menu_item.xml" value="0.259375" />
       </map>
     </option>
   </component>

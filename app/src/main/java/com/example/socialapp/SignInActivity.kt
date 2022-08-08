@@ -29,7 +29,7 @@ class SignInActivity : AppCompatActivity() {
 
     private val RC_SIGN_IN: Int = 222
     private val TAG = "SignInActivity Tag"
-    private lateinit var googleSignInClient: GoogleSignInClient
+    lateinit var googleSignInClient: GoogleSignInClient
     private lateinit var auth: FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
